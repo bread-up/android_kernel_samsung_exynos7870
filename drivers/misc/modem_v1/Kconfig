@@ -100,6 +100,10 @@ config MODEM_IF_QOS
 
 config KLAT
 	bool "kernel CLAT"
+        default n
+
+config MODEM_PIE_REV
+	bool "Android 9.0 Bootloader/Modem Support"
 	default n
 
 endmenu
