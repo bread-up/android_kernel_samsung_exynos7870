@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Nethunter kernel
+kernel.string=nethunter kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
